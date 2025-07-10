@@ -16,6 +16,9 @@ Opponent: Highlights economic and practical constraints.
 
 Judgment: Provided at the end based on the quality of reasoning.
 
+**Inspiration**
+
+ThinkTussel is inspired by the idea of teaching machines not just to generate text — but to reason, refute, and rethink.
 
 **Features**
 
