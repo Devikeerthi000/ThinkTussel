@@ -6,37 +6,37 @@ A debate simulation platform that stages a structured argument between two AI ag
 
 ThinkTussel is a web-based application that simulates formal debates between two roles — a Proponent and an Opponent — on any topic the user provides. The system generates multiple rounds of responses and concludes with a reasoned judgment. The interface is styled to deliver a polished and distraction-free experience.
 
-Example Use Case
+**Example**
 
 Topic: Should college education be free?
 
-The Proponent argues in favor of free education.
+Proponent: Argues for universal access to education.
 
-The Opponent provides counterpoints.
+Opponent: Highlights economic and practical constraints.
 
-The system presents a multi-round debate and a concluding judgment based on the arguments made.
+Judgment: Provided at the end based on the quality of reasoning.
 
 
 **Features**
 
-Input any custom topic for debate
+-Input any custom topic for debate
 
-Select number of rounds (1 to 5)
+-Select number of rounds (1 to 5)
 
-Each side (Proponent vs Opponent) presents structured points
+-Each side (Proponent vs Opponent) presents structured points
 
-Automatically generated final judgment after debate
+-Automatically generated final judgment after debate
 
-Visually clean interface with custom styling
+-Visually clean interface with custom styling
 
-Built for experimentation, education, and demonstration
+-Built for experimentation, education, and demonstration
 
 **Tech Stack**
 
-Python for backend logic
+-Python for backend logic
 
-Streamlit for the interactive web interface
+-Streamlit for the interactive web interface
 
-Custom CSS for layout and styling
+-Custom CSS for layout and styling
 
-Modular Design separating debate logic and frontend display
+-Modular Design separating debate logic and frontend display
