@@ -1,6 +1,0 @@
-mkdir LLM-FairJudge
-cd LLM-FairJudge
-python -m venv venv
-venv\Scripts\activate        # for Windows
-
-pip install -r requirements.txt
